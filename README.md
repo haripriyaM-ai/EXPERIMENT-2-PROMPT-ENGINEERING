@@ -27,6 +27,8 @@ Analyze the quality, accuracy, and depth of the generated responses.
 
 ## Output
 
+https://github.com/haripriyaM-ai/EXPERIMENT-2-PROMPT-ENGINEERING/blob/main/Comparative-Analysis-of-Different-Prompting-Patterns-Using-Various-Test-Scenarios.pdf
+
 ## Result
 
 The experiment demonstrated that refined and structured prompts produced more accurate, detailed, relevant, and high-quality responses compared to broad or unstructured prompts. Different prompting patterns showed different strengths depending on the task. Chain-of-Thought and Few-shot Prompting generated deeper and more logical responses, while Role-based Prompting improved contextual understanding and creativity. The study concluded that effective prompt engineering significantly enhances AI response quality and improves user interaction with AI systems.
